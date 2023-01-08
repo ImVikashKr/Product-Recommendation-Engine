@@ -1,4 +1,4 @@
-## Product-Recommendation-Engine-for-Amazon-Beauty-Products
+## Product Recommendation Engine
 # Description
 On Amazon Beauty Products Recommender System； Collaborative Filtering；Content-Based Algorithm ##Abstract Collaborative filtering and content-based technique have been proved to be two of the most successful techniques in recommender systems. In this paper we introduce and implement the recommender system by using Amazon beauty products data, through both collaborative filtering and content-based approaches. Collaborative filtering method includes memory-based approaches and model-based approaches. After performing evaluation based on the precision, we conclude that all the methods above are efficient when giving recommendation to users and model-based method has the largest precision.
 
